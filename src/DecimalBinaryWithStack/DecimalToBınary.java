@@ -1,7 +1,5 @@
 package DecimalBinaryWithStack;
 
-public class StackInterface {
-	
-
+public class DecimalToBınary {
 
 }
