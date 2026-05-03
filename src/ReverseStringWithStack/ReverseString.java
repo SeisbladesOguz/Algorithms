@@ -1,4 +1,3 @@
-package ReverseStringWithStack;
 
 public class ReverseString {
 	
